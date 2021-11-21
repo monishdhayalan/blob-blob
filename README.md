@@ -2,6 +2,8 @@
 
 
 ### This project was made for the #100daysOfCode Challenge
+A prototype to create a 2D Soft body physics using
+Joints
 
 ![](blob.gif)
 
